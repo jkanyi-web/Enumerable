@@ -59,9 +59,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse-Code] <a name="about-project"></a>
+# 📖 [Enuerable] <a name="about-project"></a>
 
-**[Morse-Code]** is a a coding challenge in which you have to find a phrase which is in complex form using ruby.
+**[MEnumerable]** is a a coding challenge in which you have to find a phrase which is in complex form using ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby (IRB)
@@ -83,7 +83,7 @@ For more information on the importance of a professional README for your reposit
 ### Key Features <a name="key-features"></a>
 
 
-- **[Decode morsed code into string]**
+- **[Use module inside my class]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,8 +115,8 @@ Example command:
 Clone this repository to your desired folder:
 - choose a directory
 - Open in Terminal
-- write : git clone git@github.com:bhushan354/Morse-code.git
-- go into directory Morse-Code
+- write : git clone git@github.com:jkanyi-web/Enumerable.git
+- go into directory Enumerable
 - open terminal and write : npm install
 
 <!--
@@ -166,7 +166,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Decode-String]**
+- [ ] **[To be updated once project is complete]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
