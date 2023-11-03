@@ -84,12 +84,13 @@ To install the project's dependencies, with:
 - GitHub: [@bhushan354](https://github.com/bhushan354)
 - LinkedIn: [@bhushan354](https://www.linkedin.com/in/bhushan354)
 
-👤 Siddhartha Ghosh
+👤 **Victor Kanyi**
 
-GitHub: [@siddghosh108](https://github.com/siddghosh108)
-Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
-LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
+- GitHub: [@jkanyi-web](https://github.com/jkanyi-web)
+- Twitter: [@V_Kanyi](https://twitter.com/V_Kanyi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/victor-kanyi)
 
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
