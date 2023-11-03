@@ -1,17 +1,13 @@
 require_relative 'my_enumerable'
 
-# Create our list
-list = MyList.new(1, 2, 3, 4)
-puts list.inspect
+class MyList
+  include MyEnumerable
 
-# Test for #all?
-puts(list.all? { |e| e < 5 })
-puts(list.all? { |e| e > 5 })
+  def initialize(*elements)
+    @list = elements
+  end
 
-# Test for #any?
-puts(list.any? { |e| e == 2 })
-puts(list.any? { |e| e == 5 })
-
-# Filter
-filtered = list.filter(&:even?)
-puts filtered.inspect
+  def each
+    @list.each { |element| yield element }
+  end
+end
